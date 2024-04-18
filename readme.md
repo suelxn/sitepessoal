@@ -1,0 +1,1 @@
+Olá! Desenvolvi este projeto para meu site pessoal, onde compartilho meu portfólio e links para minhas redes sociais.
